@@ -1,0 +1,6 @@
+# Intermediate build artifacts
+build/
+Resources/AppIcon.iconset/
+.DS_Store
+*.swp
+*~
